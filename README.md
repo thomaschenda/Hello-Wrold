@@ -1,2 +1,7 @@
 # Hello-Wrold
-just other repository
+
+Hello Thomas
+
+Thomas here!
+i like to learn something new from the world.
+
